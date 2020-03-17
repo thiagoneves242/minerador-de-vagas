@@ -1,2 +1,2 @@
 # minerador-de-vagas
-minra vagas na area de T.I
+minera site de vagas na area de T.I
